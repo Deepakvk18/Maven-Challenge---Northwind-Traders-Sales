@@ -41,7 +41,7 @@ Stores information about employees, including employee ID, employee name, job ti
 Contains details about shipping companies, including shipper ID and company name.
 
 ### Table: Iso Countries (Downloaded from Internet)
-COntains details about the region, COuntry ISO codes, Country Name, region name, sub-region name etc.,
+Contains details about the region, Country ISO codes, Country Name, region name, sub-region name etc.,
 
 ## Entity Relationship Diagram
 Note: In the ER Diagram, there is no order_details table as the order_details table is merged with the order table
